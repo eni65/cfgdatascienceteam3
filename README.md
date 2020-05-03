@@ -1,6 +1,6 @@
 # CFG Data Science Team Project: import pandamonium 
 
-![](cancer-image.jpg)
+![](data/cancer-image.jpg)
 
 ## Background
 This final project is for the CFG course competition. We used the techniques and methods we learned in the past weeks on the course to work on a realistic data science problem. This notebook is the presentation of our work. 
